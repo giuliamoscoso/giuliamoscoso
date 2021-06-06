@@ -1,3 +1,4 @@
+✨Contribuições:✨
 ![Snake animation](https://github.com/giuliamoscoso/giuliamoscoso/blob/output/github-contribution-grid-snake.svg)
 
 <!--
