@@ -15,4 +15,8 @@
 <img align="left" alt="Giulia's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamoscoso" />
 
 ### ✨Contributions:✨
+
+<img align="left" alt="Giulia's GitHub Contributions" src="https://github.com/giuliamoscoso/giuliamoscoso/blob/output/github-contribution-grid-snake.svg" />
+
+
 ![Snake animation](https://github.com/giuliamoscoso/giuliamoscoso/blob/output/github-contribution-grid-snake.svg)
