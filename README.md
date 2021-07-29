@@ -6,15 +6,11 @@
 - 📫 How to reach me: [Email](19deoligi@gmail.com)
 - 😄 Pronouns: She/Her
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Giulia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giuliamoscoso&show_icons=true&hide_border=true" />
+<img align="left" alt="Giulia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giuliamoscoso&show_icons=true&hide_border=true" />
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Giulia's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamoscoso" />
 
