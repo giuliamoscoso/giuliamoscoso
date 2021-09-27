@@ -15,11 +15,3 @@
 
   ### :zap: Contributions  
 <img align="center" alt="Giulia's GitHub Contributions" src="https://github.com/giuliamoscoso/giuliamoscoso/blob/output/github-contribution-grid-snake.svg" />
-
-### :zap: GitHub Stats
-
-<img align="left" alt="Giulia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giuliamoscoso&show_icons=true&hide_border=true" />
-
-### :zap: Most Used Languages
-
-<img align="left" alt="Giulia's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamoscoso" />
