@@ -3,6 +3,5 @@
 - 💬 Ask me about computer vision and digital image processing in Python
 - 📫 Reach me on my: [Email](19deoligi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/giuliamoscoso)
 - 😄 Pronouns: She/Her
-<!---
-<img align="center" alt="Giulia's GitHub Contributions" src="https://github.com/giuliamoscoso/giuliamoscoso/blob/output/github-contribution-grid-snake.svg" />
--->
+
+![snake gif](https://github.com/giuliamoscoso/giuliamoscoso/blob/output/github-contribution-grid-snake.gif)
